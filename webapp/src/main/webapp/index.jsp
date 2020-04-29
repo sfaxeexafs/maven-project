@@ -1,1 +1,1 @@
-Hello, Welcome to this course!
+Hello, Hello, Welcome to this course!
