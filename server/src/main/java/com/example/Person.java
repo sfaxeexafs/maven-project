@@ -13,7 +13,11 @@ public class Person {
   }
 
   //TODO: Add javadoc comment
-  public String person(String someone) {
+  /*
+  * @param person
+  * @return string
+  */
+  public final String person(String someone) {
     return String.format("Hello, %s!", someone);
   }
 }
