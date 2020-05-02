@@ -17,7 +17,7 @@ public class Person {
   * @param person
   * @return string
   */
-  public final String person(String someone) {
+  public final String person(final String someone) {
     return String.format("Hello, %s!", someone);
   }
 }
